@@ -1,0 +1,18 @@
+graph.h
+graph.c
+testapp.c
+
+
+a graph is collection of node
+
+an interface has a
+- name
+- owning node
+- a link
+
+a link:
+- a pair of interface
+
+A node:
+- Name
+- Set of empty interfaces
